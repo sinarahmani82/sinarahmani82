@@ -8,7 +8,7 @@
 ---
 
 ### 🎓 Academic Background & Focus
-I hold a **B.Sc. in Computer Engineering (Software)** from Islamic Azad University, Qazvin Branch (QIAU). I am actively preparing for **Graduate Studies (M.Sc. / Ph.D.)** in Europe (Belgium, Netherlands) and Canada.
+I hold a **B.Sc. in Computer Engineering (Software)** from Islamic Azad University, Qazvin Branch (QIAU). I am actively preparing for **Graduate Studies (M.Sc. / Ph.D.)** in Europe (Belgium, Netherlands, Finland) and Canada.
 
 My primary technical and research focus lies at the intersection of **Robust & Explainable Machine Learning**, **Reproducible AI Systems**, and **High-Performance Data Pipelines**. My goal is bridging the gap between rigorous scientific research papers and production-grade, well-architected software implementations.
 
